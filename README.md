@@ -49,6 +49,15 @@ I have completed numerous courses and certifications that enhance my technical k
 - Participative Leadership
 - Effective Communication
 ---
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelestrada14019&layout=compact&langs_count=20theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 📈 GitHub Stats
+
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelestrada14019&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **angelestrada14019/angelestrada14019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
