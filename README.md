@@ -51,7 +51,7 @@ I have completed numerous courses and certifications that enhance my technical k
 ---
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelestrada14019&layout=compact&langs_count=100theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Angel'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelestrada14019&layout=compact&langs_count=100&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📈 GitHub Stats
